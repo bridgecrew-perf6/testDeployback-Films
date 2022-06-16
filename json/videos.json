@@ -1,115 +1,58 @@
-[
-  
-    {
-        "title":"GRAPEFRUIT",
-        "award":"Gold",
-        "country":"Alemania",
-        "company":"Academy of Media Arts, Cologne",
-        "brand":"Unicef",
-        "categorie":"Positive World Impact",
-        "talents": "Laura Emma Hansen - Director of photography,Fabian Kratzer - Composer - Chantal Bergemann - Gaffer,Janis Ahnert - Sound Designer,Hannah-Lisa Paul - Editor",   
-        "director":"Hannah-Lisa Paul",
-        "link":"https://vimeo.com/559610798",
-        "image":"dhttps://i.ibb.co/3MnTJZP/GRAPEFRUITE.png"
-        },
-{
-"title":"RE-ROUTE BILLBOARD",
-"award":"Bronze",
-"country":"SOUTH KOREA",
-"company":"Hongik University / Kyunghee University / Smithtown Christian School / Asia Pacific International School / Seoul International School / Christian Sprout International / Big Heart Christian School / Bodwell High School / Crean Lutheran High School",
-"brand":"Ministry of Land, Infrastructure and Transport of Korea, Naver App",
-"categorie":"Positive World Impact",
-"talents": "Hyeongjin Noh -Kyungeun Park -Junsang Cho -Rin Choi - Donghyun Han -Yirang Jung -Chaemin Kim -Claire Seoyeon Kim -Jiwoo Lee -Chanjin Yoon -Seohyun Hwang -Sungkwon Ha - Educational Instructor",   
-"director":"Students",
-"link":"https://vimeo.com/437419531",
-"image":"https://cdn.entries.clios.com/styles/clio_aotw_ems_image_details_retina/s3/entry_attachments/image/60/1672/39319/93902/N0jrEUgpDx0OxMe7RkdlzAf37xPmvVASMR_pkaZSgEY.jpg/N0jrEUgpDx0OxMe7RkdlzAf37xPmvVASMR_pkaZSgEY.jpg"
 
-},
-{
-"title":"GOOGLE ACCESS",
-"award":"Gold",
-"country":"CANADA",
-"company":"Miami Ad School Toronto",
-"brand":"Google Maps",
-"categorie":"Positive World Impact",
-"talents": "Aman Soin - Copywritter",   
-"director":"Amira Moussa - Art Director",
-"link":"https://amiramssa.com/GOOGLE-ACCESS",
-"image":"https://amiramssa.com/GOOGLE-ACCESS"
-},
-{
-"title":"TRACKREACT",
-"award":"Gold",
-"country":"USA",
-"company":"School of Visual Arts",
-"brand":"Spotify",
-"categorie":"Positive World Impact",
-"talents": "Takumi Segi - Motion Designer and Editor-Maria Clavijo - Graphic Designer-Madeline Plotnick - Graphic Designer",   
-"director":"Jasmine Espejo - Copywriter and Art Director",
-"link":"https://sva.design/workspace/uploads/upload-24583-SPOTIFY_Track_React.mp4",
-"image":"data:image/jpeg;base64,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"
-},
-{
-"title":"NEVER AGAIN",
-"award":"Silver",
-"country":"GERMANY",
-"company":"Filmakademie Baden-Wuerttemberg",
-"brand":"Federal Foreign Office /European Union",
-"categorie":"Positive World Impact",
-"talents": "Marco Dahl / Berg&Dahl Audio - Sound Design Mario Dahl - Director - Marvin Schatz - DOP-Stefanie Gödicke / Kojoten Filmproduktion - Producer-Alexander Wolf David  Wolfsrudel Music - Music Victor Haselmayer - Editorr",   
-"director":"Mario Dahl - Director",
-"link":"https://mariodahl.com/never-again/",
-"image":"https://freight.cargo.site/w/2000/q/75/i/f4c007a6e762b5cdf276e3a1dc67f2a340acb6b4e1bdc9e5a73d08294edb8334/NEVER_AGAIN_STILL_01.png"
-},
-{
-"title":"GRAPEFRUIT",
-"award":"Gold",
-"country":"Alemania",
-"company":"Academy of Media Arts, Cologne",
-"brand":"Unicef",
-"categorie":"Positive World Impact",
-"talents": "Laura Emma Hansen - Director of photography,Fabian Kratzer - Composer - Chantal Bergemann - Gaffer,Janis Ahnert - Sound Designer,Hannah-Lisa Paul - Editor",   
-"director":"Hannah-Lisa Paul",
-"link":"https://www.youtube.com/watch?v=H5kHBbLUgVA",
-"image":"data:image/jpeg;base64,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"
-}, {
-    "title":"GRAPEFRUIT",
-    "award":"Gold",
-    "country":"Alemania",
-    "company":"Academy of Media Arts, Cologne",
-    "brand":"Unicef",
-    "categorie":"Positive World Impact",
-    "talents": "Laura Emma Hansen - Director of photography,Fabian Kratzer - Composer - Chantal Bergemann - Gaffer,Janis Ahnert - Sound Designer,Hannah-Lisa Paul - Editor",   
-    "director":"Hannah-Lisa Paul",
-    "link":"https://www.youtube.com/watch?v=H5kHBbLUgVA",
-    "image":"data:image/jpeg;base64,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"
+[
+    {
+      "name": "PortFolio",
+      "description": "Professional Resume developed with REACT & NODE",
+      "image": "https://i.ibb.co/cLh5dKx/portf.png" ,
+      "link":"https://github.com/kinko7",
+      "tube":"https://youtu.be/VObeYUyZkC8"
     },
     {
-        "title":"GRAPEFRUIT",
-        "award":"Gold",
-        "country":"Alemania",
-        "company":"Academy of Media Arts, Cologne",
-        "brand":"Unicef",
-        "categorie":"Positive World Impact",
-        "talents": "Laura Emma Hansen - Director of photography,Fabian Kratzer - Composer - Chantal Bergemann - Gaffer,Janis Ahnert - Sound Designer,Hannah-Lisa Paul - Editor",   
-        "director":"Hannah-Lisa Paul",
-        "link":"https://www.youtube.com/watch?v=H5kHBbLUgVA",
-        "image":"data:image/jpeg;base64,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"
-        },
-        {
-            "title":"GRAPEFRUIT",
-            "award":"Gold",
-            "country":"Alemania",
-            "company":"Academy of Media Arts, Cologne",
-            "brand":"Unicef",
-            "categorie":"Positive World Impact",
-            "talents": "Laura Emma Hansen - Director of photography,Fabian Kratzer - Composer - Chantal Bergemann - Gaffer,Janis Ahnert - Sound Designer,Hannah-Lisa Paul - Editor",   
-            "director":"Hannah-Lisa Paul",
-            "link":"https://www.youtube.com/watch?v=H5kHBbLUgVA",
-            "image":"data:image/jpeg;base64,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"
-            }
-
-
- 
-
-]
+      "name": "NY-FestivalAwards",
+      "description": "Advertising New York Festival Awards(UNDER CONSTRUCTION)",
+      "tecnologies": "Javascript-React-Node-Express",
+      "image": "https://i.ibb.co/j5LkGjw/aa.png",
+      "link":"https://github.com/kinko7/testDeployback-Films" 
+    },
+    
+      {
+        "name": "TuTicket / E-comm",
+        "description": "E-commerce  tickets sales for events. I collaborate on the Backend.  We implement the REST architecture. Development with agile methodologies SCRUM. Was Develop Using Node.js, Exprees, Sequelize and Postgres with libraries and frameworks like Passport, google-auth-library, nodemailer and payment services such as Mercado Pago and PayPal.  On Frontend we use Javascript, React, Redux, figma and other frameworks.",
+        "tecnologies": "Javascript-React-Redux-Node-Express-Postgres-Sequelize",
+        "image":  "https://i.ibb.co/bv2mL9T/2021-11-08-14-49-59.png",
+        "link": "https://github.com/kinko7/ITicket",
+        "tube":"https://www.youtube.com/watch?v=TW4F_CvRU2g"
+      },
+      {
+        "name": "Food Recipes App",
+        "description": "Project based on an external API that contains information about cooking recipes. It was designed as a SPA that uses the data from the API to then filter the information as required and store it in a database.  Features * Pagination of 9 recipes per page and filtered by Alphabetical order. * Filtered according to higher or lower healthy diet score. * By selecting a recipe you get step-by-step details and ingredients. * Search bar by name or ingredient. * Form that allows the creation of a new recipe by applying the required parameters and importing an image of your choice through a URL.",
+        "tecnologies": "Javascript-React-Redux-Node-Express-Postgres-Sequelize",   
+        "image": "https://i.ibb.co/rb1KBTX/2022-04-21-18-24-21-Window.png",
+        "link": "https://github.com/kinko7/PI-Henry-Food"
+      },
+      {
+        "name": "Luxury Real Estate",
+        "description": "One page Marketing Services",
+        "tecnologies": "Html-Javascript-Boostrap",
+        "image": "https://i.ibb.co/Rp3Pdfc/1.png",
+        "link":"https://github.com/kinko7/kinko7.github.io" ,
+        "tube":"https://youtu.be/oMzuDgJjTDA",
+        "deploy":" https://kinko7.github.io/"
+      },
+      {
+        "name": "Pokemon API",
+        "description": "APi rest - CRUD: GET,POST,UPDATE,DELETE,PATCH",
+        "tecnologies": "Javascript-React-Redux-Node-Express-Postgres-Sequelize",   
+        "image": "https://i.ibb.co/BBBbsNK/Apoke.jpg",
+        "link":"https://github.com/kinko7/BackEnd-Pokemon-NicaSource" 
+      },
+      {
+        "name": "BackEnd Book´s E-comm",
+        "description": "APi rest",
+        "tecnologies": "Javascript-React-Redux-Node-Express-Postgres-Sequelize",   
+        "image": "https://i.ibb.co/xJj9Mfg/2.png ",
+        "link":"https://github.com/kinko7/Backend-EngineerAidsForAids" 
+      }
+      
+      
+    ]
